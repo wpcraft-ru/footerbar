@@ -6,12 +6,14 @@ Footer Bar (Bottom toolbar) for WordPress and mobile first sites
 - searche
 - to top
 
+generic actions for all sites
+
+
 and
 - mobile first
 - webpack
 - english first
 
-generic actions for all sites
 
 
 ## example
