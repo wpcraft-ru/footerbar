@@ -3,8 +3,15 @@
 </script>
 
 <main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>Bottom bar</h1>
+
+	<div class='bottom-bar'>
+
+		<button>1</button>
+		<button>2</button>
+		<button>3</button>
+	
+	</div>
 </main>
 
 <style type="text/scss">
